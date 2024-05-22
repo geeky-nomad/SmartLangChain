@@ -1,0 +1,6 @@
+openai
+langchain
+streamlit
+starlette
+uvicorn
+python-dotenv
